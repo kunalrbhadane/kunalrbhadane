@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalrbhadane" alt="kunalrbhadane" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🔭 I’m currently working on **Agri-Culture and HealthCare projects**
 
 - 🌱 I’m currently learning **Flutter development**
@@ -27,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalrbhadane&show_icons=true&locale=en&layout=compact" alt="kunalrbhadane" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalrbhadane&show_icons=true&locale=en" alt="kunalrbhadane" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalrbhadane&" alt="kunalrbhadane" /></p>
