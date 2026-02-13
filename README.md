@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Er.Kunal R. Bhadane</h1>
-<h3 align="center">🌍 IoT Developer | Flutter development | Bridging the physical and digital worlds with smart tech.</h3>
+
+<h2 align="center">🌍 IoT & Flutter Developer | Bridging the physical and digital worlds through smart technology</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalrbhadane&label=Profile%20views&color=0e75b6&style=flat" alt="kunalrbhadane" /> </p>
 
